@@ -1,0 +1,302 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\controllers\\jwtauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\controllers\\jwtauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\smalipeddy\\onedrive - soti inc\\naga santhosh malipeddy\\learning\\.net\\authentication-jwt\\authentication jwt\\jwtauthentication\\models\\userwithtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\userwithtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\data\\userdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\smalipeddy\\onedrive - soti inc\\naga santhosh malipeddy\\learning\\.net\\authentication-jwt\\authentication jwt\\jwtauthentication\\models\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\models\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\smalipeddy\\onedrive - soti inc\\naga santhosh malipeddy\\learning\\.net\\authentication-jwt\\authentication jwt\\jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Migrations\\20250420100223_Add Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:JWTAuthentication\\Migrations\\20250420100223_Add Roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|c:\\users\\smalipeddy\\onedrive - soti inc\\naga santhosh malipeddy\\learning\\.net\\authentication-jwt\\authentication jwt\\jwtauthentication\\jwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\jwtauthentication.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\jwtauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{54A85BFA-E4E8-4619-A07D-04E38E949576}|JWTAuthentication\\JWTAuthentication.csproj|solutionrelative:jwtauthentication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 19,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Entities\\User.cs",
+              "RelativeToolTip": "JWTAuthentication\\Entities\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:56:38.434Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserWithToken.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Models\\UserWithToken.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\UserWithToken.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Models\\UserWithToken.cs",
+              "RelativeToolTip": "JWTAuthentication\\Models\\UserWithToken.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:32:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Models\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Models\\TokenDTO.cs",
+              "RelativeToolTip": "JWTAuthentication\\Models\\TokenDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:10:18.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Services\\AuthService.cs",
+              "RelativeToolTip": "JWTAuthentication\\Services\\AuthService.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAAAEMAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:13:11.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JWTAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Controllers\\JWTAuthenticationController.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Controllers\\JWTAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Controllers\\JWTAuthenticationController.cs",
+              "RelativeToolTip": "JWTAuthentication\\Controllers\\JWTAuthenticationController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:59:39.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Program.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Program.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Program.cs",
+              "RelativeToolTip": "JWTAuthentication\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:51:03.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Models\\UserDTO.cs",
+              "RelativeToolTip": "JWTAuthentication\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:57:36.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Services\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Services\\IAuthService.cs",
+              "RelativeToolTip": "JWTAuthentication\\Services\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T12:11:26.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Data\\UserDbContext.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Data\\UserDbContext.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Data\\UserDbContext.cs",
+              "RelativeToolTip": "JWTAuthentication\\Data\\UserDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:49:57.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTAuthentication\\appsettings.json",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\appsettings.json",
+              "RelativeToolTip": "JWTAuthentication\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T11:56:16.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JWTAuthentication.http",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\JWTAuthentication.http",
+              "RelativeDocumentMoniker": "JWTAuthentication\\JWTAuthentication.http",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\JWTAuthentication.http",
+              "RelativeToolTip": "JWTAuthentication\\JWTAuthentication.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-20T07:01:04.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250420100223_Add Roles.cs",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Migrations\\20250420100223_Add Roles.cs",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Migrations\\20250420100223_Add Roles.cs",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Migrations\\20250420100223_Add Roles.cs",
+              "RelativeToolTip": "JWTAuthentication\\Migrations\\20250420100223_Add Roles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T10:02:23.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "JWTAuthentication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\smalipeddy\\OneDrive - SOTI Inc\\Naga Santhosh Malipeddy\\learning\\.Net\\Authentication-JWT\\Authentication JWT\\JWTAuthentication\\Properties\\launchSettings.json",
+              "RelativeToolTip": "JWTAuthentication\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAABoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T07:06:23.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "ContainingType": "JWTAuthentication.Controllers.JWTAuthenticationController",
+    "Method": "LogIn",
+    "RelativePath": "api/JWTAuthentication/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "JWTAuthentication.Models.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTAuthentication.Controllers.JWTAuthenticationController",
+    "Method": "GetNewTokens",
+    "RelativePath": "api/JWTAuthentication/newTokens",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "JWTAuthentication.Models.UserWithToken",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTAuthentication.Controllers.JWTAuthenticationController",
+    "Method": "SecureCall",
+    "RelativePath": "api/JWTAuthentication/privateAPI",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTAuthentication.Controllers.JWTAuthenticationController",
+    "Method": "AdminsAPI",
+    "RelativePath": "api/JWTAuthentication/privateAPI/admins-only",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTAuthentication.Controllers.JWTAuthenticationController",
+    "Method": "Register",
+    "RelativePath": "api/JWTAuthentication/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "user",
+        "Type": "JWTAuthentication.Models.UserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
